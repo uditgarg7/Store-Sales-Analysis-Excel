@@ -68,8 +68,8 @@ The dashboard enables users to filter data dynamically and explore sales trends 
 ## 📂 Repository Contents
 
 ```
-📁 Vrinda-Store-Sales-Analysis
-│── Vrinda Store Data Analysis.xlsx
+📁Store-Sales-Analysis
+│── Store Data Analysis.xlsx
 │── Dashboard.png
 │── README.md
 ```
