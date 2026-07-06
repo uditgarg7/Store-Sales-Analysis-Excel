@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Annual Sales Analysis Dashboard
+# 📊 Store Annual Sales Analysis Dashboard
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-blue?style=for-the-badge)
