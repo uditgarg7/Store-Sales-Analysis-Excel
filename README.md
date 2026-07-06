@@ -80,13 +80,6 @@ The dashboard enables users to filter data dynamically and explore sales trends 
 
 > <img width="1920" height="1020" alt="Dashboard png" src="https://github.com/user-attachments/assets/9cb746b7-c95b-4f8f-b962-f505108bedf4" />
 
-
-Example:
-
-```
-![Dashboard](Dashboard.png)
-```
-
 ---
 
 ## 🚀 Skills Demonstrated
