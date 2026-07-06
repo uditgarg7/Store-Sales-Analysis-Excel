@@ -118,9 +118,7 @@ B.Tech (Artificial Intelligence & Data Science)
 
 Aspiring Data Analyst
 
-🔗 LinkedIn: *Add your LinkedIn profile link*
 
-🔗 GitHub: *Add your GitHub profile link*
 
 ---
 
